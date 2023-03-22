@@ -44,7 +44,7 @@ namespace Hnatushenko_721A_2Course_project1
             {
                 tbInput.Enabled = false;
                 tClock.Stop();
-                bStart.Text = "Пуск";// зміна тексту на кнопці на "Пуск"
+                bStart.Text = "Пуск";
                 this.Mode = true;
             }
         }
